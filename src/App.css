@@ -1,0 +1,46 @@
+.App {
+  text-align: left;
+  margin: 15px;
+}
+
+.App a {
+  text-decoration: none;
+}
+
+.todoLists {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 15px;
+}
+
+.app_navigation a {
+  display: block;
+}
+
+.todoList {
+  margin: 15px;
+}
+
+.tasks {
+  padding-left: 20px;
+}
+
+.tasks li {
+ 
+}
+
+.addItem button:hover {
+  background-color: yellowgreen;
+}
+
+.deleteTask:hover {
+  background-color: pink;
+}
+
+.deleteList:hover {
+  background-color: pink;
+}
+
+.inputError {
+  border: 2px solid red;
+}

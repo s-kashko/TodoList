@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TasksManager/static/css/main.ed16cc4d.chunk.css",
+    "main.css": "/TasksManager/static/css/main.f5b047c2.chunk.css",
     "main.js": "/TasksManager/static/js/main.6f16fffb.chunk.js",
     "main.js.map": "/TasksManager/static/js/main.6f16fffb.chunk.js.map",
     "runtime~main.js": "/TasksManager/static/js/runtime~main.deb207a2.js",
@@ -8,8 +8,8 @@
     "static/js/2.39021a73.chunk.js": "/TasksManager/static/js/2.39021a73.chunk.js",
     "static/js/2.39021a73.chunk.js.map": "/TasksManager/static/js/2.39021a73.chunk.js.map",
     "index.html": "/TasksManager/index.html",
-    "precache-manifest.c197a3b73b14710d95d86440b7870d81.js": "/TasksManager/precache-manifest.c197a3b73b14710d95d86440b7870d81.js",
+    "precache-manifest.150f314ace68ea6950dd7e7e16346af0.js": "/TasksManager/precache-manifest.150f314ace68ea6950dd7e7e16346af0.js",
     "service-worker.js": "/TasksManager/service-worker.js",
-    "static/css/main.ed16cc4d.chunk.css.map": "/TasksManager/static/css/main.ed16cc4d.chunk.css.map"
+    "static/css/main.f5b047c2.chunk.css.map": "/TasksManager/static/css/main.f5b047c2.chunk.css.map"
   }
 }

@@ -18,6 +18,7 @@
 }
 
 .todoList {
+  max-width: 350px;
   margin: 15px;
 }
 
@@ -26,7 +27,7 @@
 }
 
 .tasks li {
- 
+  overflow-wrap: break-word;
 }
 
 .addItem button:hover {
